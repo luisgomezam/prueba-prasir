@@ -18,3 +18,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 - [lgz.md](files/lgz.md)
 
+- [jmsg.md](files/jmsg.md)
