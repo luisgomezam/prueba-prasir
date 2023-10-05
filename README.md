@@ -15,6 +15,7 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 ## Esta es la lista que tienes que modificar
 
 **¿Qué asignatura te gusta más? Y ¿por qué?**
+La asignatura que más me gusta es fundamentos de programación porque es la base de la tecnología y para así conseguir resolver problemas complejos
 
 - [lgz.md](files/lgz.md)
-
+- [pmg.md](files/pmg.md)
