@@ -13,16 +13,12 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 ## Esta es la lista que tienes que modificar
 
-**¿Qué asignatura te gusta más? Y ¿por qué?** Todas puesto que me permiten aprender más sobre las matemáticas que tanto me gustan y fascinan.
+**¿Qué asignatura te gusta más? Y ¿por qué?**
 
 - [lgz.md](files/lgz.md)
-
-- [mnr.md](files/mnr.md)
-
 - [agf.md](files/agf.md) 
 
 - [jmsg.md](files/jmsg.md)
 
 - [nks.md](files/nks.md)
-
 
