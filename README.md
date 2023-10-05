@@ -17,6 +17,8 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 - [lgz.md](files/lgz.md)
 
+- [vvc.md](files/vvc.md)
+
 - [jlg.md](files/jlg.md)
 
 - [mnr.md](files/mnr.md)
