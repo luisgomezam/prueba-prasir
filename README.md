@@ -14,10 +14,14 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 ## Esta es la lista que tienes que modificar
 
 **¿Qué asignatura te gusta más? Y ¿por qué?**
+La **asignatura** que más me gusta es *fundamentos de programación* porque es la base de la __tecnología__ y para así conseguir resolver _problemas complejos_
 
 - [acpc.md](files/acpc.md)
 
 - [lgz.md](files/lgz.md)
+
+- [pmg.md](files/pmg.md)
+
 - [pjg.md](files/pjg.md)
 
 - [fac.md](files/fac.md)
@@ -47,4 +51,5 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 - [jmsg.md](files/jmsg.md)
 
 - [nks.md](files/nks.md)
+
 
